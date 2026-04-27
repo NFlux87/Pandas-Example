@@ -10,3 +10,4 @@ df = pd.read_csv(filepath_or_buffer= 'data/pokemons.csv')
 # if you're looking for column only you can you
 # df['column_name']
 # df.loc['row_name']
+print(df.to_string())
