@@ -28,7 +28,7 @@ python -m venv .venv
 source .venv/Scripts/activate
 ```
 
-### 2. Install numpy
+### 2. Install pandas
 ```bash
 pip install pandas
 ```
